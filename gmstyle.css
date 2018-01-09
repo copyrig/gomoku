@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+    font-family: sans-serif;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+h1 {
+    font-size: 3.5em;
+}
+h2 {
+    font-size: 2em;
+}
+h3 {
+    font-size: 1em;
+}
+a.info_link {
+    color: navy;
+}
+a.main_link {
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 2em;
+    font-style: italic;
+}
